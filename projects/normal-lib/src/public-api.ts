@@ -3,4 +3,4 @@
  */
 
 export * from './lib/normal-lib.module';
-export * from './lib/normal-lib/normal-lib.component';
+export * from './lib/test/test.component';

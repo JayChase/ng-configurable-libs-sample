@@ -27,9 +27,7 @@
               "projects/web-app/src/favicon.ico",
               "projects/web-app/src/assets"
             ],
-            "styles": [
-              "projects/web-app/src/styles.scss"
-            ],
+            "styles": ["projects/web-app/src/styles.scss"],
             "scripts": []
           },
           "configurations": {
@@ -87,9 +85,7 @@
               "projects/web-app/src/favicon.ico",
               "projects/web-app/src/assets"
             ],
-            "styles": [
-              "projects/web-app/src/styles.scss"
-            ],
+            "styles": ["projects/web-app/src/styles.scss"],
             "scripts": []
           }
         },
@@ -101,9 +97,7 @@
               "projects/web-app/tsconfig.spec.json",
               "projects/web-app/e2e/tsconfig.json"
             ],
-            "exclude": [
-              "**/node_modules/**"
-            ]
+            "exclude": ["**/node_modules/**"]
           }
         },
         "e2e": {
@@ -148,12 +142,11 @@
               "projects/normal-lib/tsconfig.lib.json",
               "projects/normal-lib/tsconfig.spec.json"
             ],
-            "exclude": [
-              "**/node_modules/**"
-            ]
+            "exclude": ["**/node_modules/**"]
           }
         }
       }
-    }, 
+    }
+  },
   "defaultProject": "web-app"
 }
