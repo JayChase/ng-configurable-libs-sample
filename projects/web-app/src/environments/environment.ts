@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  normalMessage: 'normal message'
+  message: 'message'
 };
 
 /*

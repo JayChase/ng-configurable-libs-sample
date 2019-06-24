@@ -9,10 +9,10 @@ import { AppComponent } from './app.component';
   imports: [
     BrowserModule,
     NormalLibModule.forRoot({
-      message: environment.normalMessage
+      message: environment.message
     })
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule {}
+export class AppModule { }
