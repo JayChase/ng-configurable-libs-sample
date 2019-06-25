@@ -1,6 +1,6 @@
 # NG-CONFIGURABLE-LIBS-SAMPLE
 
-Sample code for the tutorial [Angular: Creating configurable libraries with angular cli](https://www.usefuldev.com/post/Angular:%20create%20a%20library%20that%20supports%20Angular%20Material%20theming)
+Sample code for the tutorial [Angular: Creating configurable libraries with angular cli](https://www.usefuldev.com/post/Angular:%20Creating%20configurable%20libraries%20with%20angular%20cli)
 
 ## Installation
 
