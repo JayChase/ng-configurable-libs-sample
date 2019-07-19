@@ -5,7 +5,7 @@ Sample code for the tutorial [Angular: Creating configurable libraries with angu
 ## Installation
 
 ```bash
-git clone
+git clone https://github.com/JayChase/ng-configurable-libs-sample.git
 npm i
 ```
 
