@@ -1,6 +1,6 @@
 # NG-CONFIGURABLE-LIBS-SAMPLE
 
-Sample code for the tutorial [Building configurable libraries with Angular Cli]()
+Sample code for the tutorial [Building configurable libraries with Angular Cli](https://www.usefuldev.com/post/Angular:%20Creating%20configurable%20libraries%20with%20angular%20cli)
 
 ## Installation
 
